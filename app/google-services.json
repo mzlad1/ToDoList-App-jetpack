@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309407907368",
+    "project_id": "todolistjetpack",
+    "storage_bucket": "todolistjetpack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309407907368:android:a12f03e1dcf2bb3dd13f1d",
+        "android_client_info": {
+          "package_name": "com.example.todolistjetpack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgh2EE8aGvud9foGIoUeqfR4A3XVXicio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
